@@ -1,4 +1,4 @@
-# Scorch React.js game, using Matter.js
+# Scorch React.js game, using [Matter.js](http://brm.io/matter-js/)
 
 Play on:
 https://TalBeno.github.io/reactscorch
